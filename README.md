@@ -36,4 +36,4 @@ With a tabbed document interface, PDF export, a built-in image uploader, session
 
 > Mabinogi
 
-!-[test]()
+![test](/storage/sdcard0/DCIM/Camera/IMG_20150619_103910.jpg)
